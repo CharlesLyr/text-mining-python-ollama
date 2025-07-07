@@ -30,3 +30,7 @@ Reproduction, modification, or commercial use is **not permitted** without the a
 
 CharlesLyr (Eudora Sanders)  
 Please contact me through the application channel for further collaboration.
+
+> ✅ This repository contains a Python script that extracts research methods from academic PDF files using a local LLM via Ollama.  
+> ✅ The script is for **demonstration purposes only**. Reproduction, modification, or redistribution is not permitted.
+
