@@ -28,7 +28,7 @@ Reproduction, modification, or commercial use is **not permitted** without the a
 
 ## 👤 Author
 
-CharlesLyr (Eudora Sanders)  
+CharlesLyr 
 Please contact me through the application channel for further collaboration.
 
 
