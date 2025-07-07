@@ -21,4 +21,12 @@ This project is a Python-based tool designed for extracting research methods fro
 - requests
 - Ollama + Deepseek (locally running models)
 
+## 📄 Usage Notice
 
+This repository is for **demonstration only**.  
+Reproduction, modification, or commercial use is **not permitted** without the author's permission.
+
+## 👤 Author
+
+CharlesLyr (Eudora Sanders)  
+Please contact me through the application channel for further collaboration.
